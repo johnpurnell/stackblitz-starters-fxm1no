@@ -6,7 +6,11 @@ import App from './App';
 const root = createRoot(document.getElementById('app'));
 
 root.render(
+<>
+  <h2>Can I add this header?</h2>
+  
   <StrictMode>
-    <App />
+      <App />
   </StrictMode>
+</>
 );

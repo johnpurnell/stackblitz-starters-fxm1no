@@ -6,7 +6,7 @@ export default function App() {
     <div>
       <h1>Hello, StackBlitz and Github</h1>
       <p>
-        ho <b>humm</b>{' '}
+        I think this is working now.
       </p>
     </div>
   );
